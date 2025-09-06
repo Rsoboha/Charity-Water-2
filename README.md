@@ -1,2 +1,2 @@
 # Charity: Water Website 
-this us my first website using github
+This is my first website using github
